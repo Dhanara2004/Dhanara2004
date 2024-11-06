@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Demon Glod
+- 👀 I’m interested in Web Development and Software Engineering
+- 🌱 I’m currently learning Java and React
+- 💞️ I’m looking to collaborate on web development projects
+- 📫 How to reach me: dhanara2004@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: Don't like the rain :)
